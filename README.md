@@ -39,6 +39,7 @@ Your project should:
   - Mod the base game to make it your own by updating the game text and visuals to display your own story.
 
 **Credits**
+
 Image by Patrick Tomasso on [Unsplash] https://unsplash.com/photos/brown-themed-bar-GXXYkSwndP4
 Image by Trac Vu on [Unsplash] https://unsplash.com/photos/a-yellow-school-bus-driving-down-a-road-1T1LDgQOCl4
 Image by Ousa Chea [Unsplash] https://unsplash.com/photos/white-microscope-on-top-of-black-table-gKUC4TMhOiY
