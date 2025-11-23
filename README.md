@@ -1,3 +1,27 @@
+**Esperanza: Choose Your Own Adventure Game**
+
+An adventure game where the player must make decisions that will affect the path of their story. 
+
+**Includes**
+
+- Five screens
+- Background of the story
+- One scenario to make a decision
+- Two outcomes
+
+  **Coding Language Used**
+-HTML
+-CSS
+-JavaScript
+
+**Future Improvements**
+
+- Add more screens with scenarios
+- Insert animations when reaching the end
+- Provide a restart button
+
+This project was built off of the Girls Who Code starter code and instructions. I expanded by creating my own story, scenarios, and outcomes. The requirements are listed below for reference.
+
 # Choose Your Own Adventure (CYOA) Game Starter Code 
 Welcome to the CYOA Game Project! Fork this starter code to begin your quest.
 
@@ -14,35 +38,13 @@ Your project should:
   - Create a flowchart and storyboard to prototype your CYOA mod.
   - Mod the base game to make it your own by updating the game text and visuals to display your own story.
 
+**Credits**
 
-### Optional Spice Level + Extensions
-You can extend your project further by:
-- Trying a Spice Level Challenge (See Part 6)
-- Making it accessible (See HQ for details)
-- Adding more screens (See HQ for details)
+Disclaimer: I do **not** claim ownership of the images shown in the game. The pixel art backgronds were sourced online [Pinterest] for demonstration purposes only.
 
 
-###  Attributions
-*If you used any code, ideas, images, or resources from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own. Pixabay, Upsplash, and Burst are sites that offer free, uncopyrighted images.*
-- Add here if applicable
 
----
 
-## File Overview
 
-### ← script.js
 
-This is where we will add the JavaScript, p5.js, and p5.play code for our game.
-
-### ← index.html
-
-The HTML file contains HTML code that sets up a webpage for our game. We also add libraries in this file using HTML tags.
-
-### ← README.md
-
-That's this file. This is the place to tell people more about what your game does and how you built it. 
-
-### ← style.css
-
-The CSS file adds styling rules to your content like changing colors and fonts. We will not use this file for our game and instead update the style of our game in the script.js file.  
 
