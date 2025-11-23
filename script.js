@@ -14,7 +14,7 @@ function preload () {
   bgImage = loadImage("cafe.jpg");
   busImage = loadImage("bus2.jpg");
   coffeeImage = loadImage ("physics.jpg");
-  characterImage = loadImage("yah-removebg-preview.png");
+ 
 }
 
 /* SETUP RUNS ONCE */
@@ -105,8 +105,7 @@ function showScreen1() {
   imageMode(CORNER);
   image(coffeeImage, 0, 0, width, height);
   
-  imageMode(CENTER);
-  image(characterImage, width - 100, height / 2 + 30, 120, 120);
+  
   textStyle(NORMAL);
  
   let textBoxWidth = 420;
