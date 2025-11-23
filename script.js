@@ -12,8 +12,8 @@ let characterImage;
 
 function preload () {
   bgImage = loadImage("cafe.jpg");
-  busImage = loadImage("coding.jpg");
-  coffeeImage = loadImage ("lab.jpg");
+  busImage = loadImage("bus2.jpg");
+  coffeeImage = loadImage ("physics.jpg");
   characterImage = loadImage("yah-removebg-preview.png");
 }
 
