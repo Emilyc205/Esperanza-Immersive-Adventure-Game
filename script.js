@@ -8,7 +8,7 @@ let esperanzaImage;
 let bgImage;
 let busImage;
 let coffeeImage;
-let characterImage;
+
 
 function preload () {
   bgImage = loadImage("cafe.jpg");
